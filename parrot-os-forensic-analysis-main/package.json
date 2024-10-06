@@ -1,0 +1,15 @@
+{
+  "name": "Lhedge",
+  "main": "index.html",
+  "version": "1.0.0",
+  "platforms": [
+    "linux64"
+  ],
+  "outputDir": "./build",
+  "buildDir": "./dist",
+  "winIco": "./icon.ico",
+  "macIcns": "./icon.icns",
+  "dependencies": {
+    "nw-builder": "^4.7.4"
+  }
+}
